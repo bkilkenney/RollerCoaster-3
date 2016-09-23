@@ -19,20 +19,37 @@ namespace RollerCoaster3
 
             char[] array = shakespeareString.ToCharArray();
 
+            int counter = 0;
+
             for (int i = 0; i < array.Length; i++)
             {
                 char let = array[i];
-                if ( i % 2 == 0)
-                    array[i] = char.ToUpper(let);
+                counter++;
 
-                if (i % 2 != 0)
-                    array[i] = char.ToLower(let);    
-                
-            }
+                if (char.IsLetter(let))
+                    {
+                    if (counter % 2 == 0)
+                    {
+                        array[i] = char.ToUpper(let);
+                        
+                    }
+                   
+
+
+                    if (counter % 2 != 0)
+                    {
+                        array[i] = char.ToLower(let);
+                        
+                    }
+                    
+                }
+            }    
+            
             string result = new string(array);
             Console.WriteLine(result);
+            
         }
-
+       
 
 
         }

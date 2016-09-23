@@ -4,3 +4,9 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\RollerCoaster3\Roller
 c:\users\wecancodeit\documents\visual studio 2015\Projects\RollerCoaster3\RollerCoaster3\obj\Debug\RollerCoaster3.csprojResolveAssemblyReference.cache
 c:\users\wecancodeit\documents\visual studio 2015\Projects\RollerCoaster3\RollerCoaster3\obj\Debug\RollerCoaster3.exe
 c:\users\wecancodeit\documents\visual studio 2015\Projects\RollerCoaster3\RollerCoaster3\obj\Debug\RollerCoaster3.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\RollerCoaster-3\bin\Debug\RollerCoaster3.exe.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\RollerCoaster-3\obj\Debug\RollerCoaster3.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\RollerCoaster-3\obj\Debug\RollerCoaster3.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\RollerCoaster-3\bin\Debug\RollerCoaster3.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\RollerCoaster-3\bin\Debug\RollerCoaster3.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\RollerCoaster-3\obj\Debug\RollerCoaster3.csprojResolveAssemblyReference.cache
